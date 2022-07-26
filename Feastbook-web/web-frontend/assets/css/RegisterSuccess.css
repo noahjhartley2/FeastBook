@@ -1,0 +1,26 @@
+.regSuccessContainer {
+    margin-top: 10%;
+    color: white;
+}
+
+.regSuccessRow {
+    justify-content: center;
+}
+
+.regSuccessRow1 {
+    justify-content: center;
+    font-size: xx-large;
+    margin-bottom: 10%;
+}
+
+.regSuccessButtonStyle {
+    cursor: pointer;
+    margin: 1%;
+    width: 30%;
+    height: 30%;
+    align-self: center;
+    background-color: #0F4C75;    
+    border-radius: 8%;
+    color: #fff;
+    font-size: x-large;
+}

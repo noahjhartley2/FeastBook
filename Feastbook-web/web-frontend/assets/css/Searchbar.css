@@ -1,0 +1,51 @@
+.searchContainter {
+    z-index: 30;
+}
+
+.searchBar {
+    margin-top: .5%;
+    width: 100%;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.searchIcon {
+    margin-left: 1%;
+}
+
+.searchInput {
+    border: none;
+    width: 80%;
+}
+
+.searchInput:focus {
+    outline: none;
+}
+
+.searchResultsContainer {
+    cursor: pointer;
+}
+
+.popper {
+    left: 5%;
+    /* width: 100%; */
+}
+
+/* .searchResult {
+    position: relative;
+    font-family: MontserratSB;
+    cursor: pointer;
+    background-color: white;
+    color: #0F4C75;
+    min-width: 500%;
+    margin-left: 10%;
+    border-color: #0F4C75; 
+} */
+
+.searchResult {
+    margin-bottom: 5%;
+    width: inherit;
+    font-size: xx-large;
+}

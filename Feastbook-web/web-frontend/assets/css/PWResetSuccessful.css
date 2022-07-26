@@ -1,0 +1,32 @@
+.pwrsContainer {
+    margin-top: 10%;
+    font-family: MontserratSB;
+    color: white;
+}
+
+.pwrsRow {
+    justify-content: center;
+    font-size: xx-large;
+    margin-bottom: 5%;
+}
+
+.pwrsFooterRow {
+    justify-content: center;
+    cursor: pointer;
+}
+
+.pwrsErrorRow {
+    color: red;
+    justify-content: center;
+    font-size: x-large;
+}
+
+.pwrsLabelCol {
+    display: flex;
+    justify-content: right;
+}
+
+.pwrsInputCol {
+    display: flex;
+    justify-content: left;
+}

@@ -1,0 +1,53 @@
+.topbarContainer {
+    background-color: #0F4C75;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+}
+
+.topbarLeft {
+    /* border: 2px solid red; */
+    /* background-color: #0F4C75; */
+    color: white;
+}
+
+.topbarRow {
+    /* border: 2px solid green; */
+    color: white;
+}
+
+.logo {
+    align-self: center;
+    margin-left: 5%;
+    color: #BBE1FA;
+    font-size: 250%;
+    font-weight: 500;
+    font-family: MontserratSB;
+}
+
+.topbarCenter {
+    /* border: 2px solid red; */
+    /* background-color: #0F4C75; */
+    overflow: visible;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.topbarRight {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.topbarIcons {
+    display: flex;
+    /* justify-content: space-around; */
+    margin-right: -40%;
+}
+
+.topbarIconItem {
+    margin-right: 20%;
+    cursor: pointer;
+    position: relative;
+}

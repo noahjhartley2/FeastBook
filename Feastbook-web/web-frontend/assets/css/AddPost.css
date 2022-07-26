@@ -1,0 +1,121 @@
+/* 
+.postContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    height: 80%;
+    display: flex;
+    background-color: #1B262C; 
+} */
+.postContainer {
+    font-family: MontserratSB;
+    color: white;
+    /* margin-left: 15%; */
+}
+
+.postHeaderRow {
+    margin-top: 5%;
+    justify-content: center;
+    align-items: center;
+}
+.postHeaderCol {
+    /* border: 2px solid rgb(177, 16, 16); */
+    color: white;  
+}
+h3 {
+    height: inherit;
+    text-align: center;
+    justify-content: center;
+}
+
+.postDetailsRow {
+    /* border: 2px solid rgb(182, 40, 187); */
+}
+
+
+
+.postImageCol {
+    /* border: 2px solid rgb(40, 187, 109); */
+    color: white;
+    justify-items: right;
+}
+.postImageRow {
+    justify-content: center;
+}
+.imgSelectionRow {
+    /* border: 2px solid rgb(196, 231, 41); */
+    margin-left: 6%;
+}
+
+.postImg {
+    aspect-ratio: 4/4;
+    min-width: 300px;
+    min-height: 300px;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.postInfoCol {
+    /* border: 2px solid rgb(196, 231, 41); */
+}
+
+
+
+.postNameInputRow {
+    /* border: 2px solid rgb(173, 30, 178); */
+    justify-content: center;
+}
+.postNameCell {
+    margin: 1%;
+    width: 100%;
+    /* background-color: red; */
+    align-self: center;
+    align-items: center;
+}
+.postNameTextInput {
+    width: 99%;
+    margin-left: 49.5%;
+    transform: translate(-50%);
+}
+
+
+
+.ingredientsInputCol {
+    /* border: 2px solid rgb(219, 116, 31); */
+    min-height: 500%;
+    max-height: 500%;
+}
+.directionsInputCol {
+    /* border: 2px solid rgb(31, 169, 219); */
+}
+.postInfoCell {
+    margin: 2%;
+    margin-left: -3%;
+}
+.postInfoTextInput {
+    width: 104%;
+    overflow-y: scroll;
+    /* resize: none; */
+}
+
+
+
+.postSubmitRow {
+    /* border: 2px solid rgb(246, 78, 114);  */
+    justify-content: center;
+}
+.buttonStyle {
+    cursor: pointer;
+    margin: 1%;
+    width: 80%;
+    height: 30%;
+    align-self: center;
+    background-color: #0F4C75;    
+    border-radius: 8%;
+    color: #fff;
+    font-size: 18px;
+}
+
+

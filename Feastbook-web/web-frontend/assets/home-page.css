@@ -1,0 +1,47 @@
+body{
+    background-color: #1B262C;
+}
+
+.container-fluid.top-logo-cnt{
+    background-color: #0F4C75;
+}
+
+.col-sm-5.search-col{
+    margin: auto;
+    display: block;
+}
+
+
+.img-fluid.logo-img{
+    margin: auto;
+    display: block;
+    height: 90%;
+}
+
+.btn.btn-outline-primary{
+    height: 80%;
+}
+.search-img{
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.home-link{
+    padding: 2rem;
+}
+
+.profile-link{
+    padding: 2rem;
+}
+.img-fluid.home-img{
+    margin: auto;
+    display: block;
+    height: 60%;
+}
+
+.img-fluid.profile-img{
+    margin: auto;
+    display: block;
+    height: 60%;
+}

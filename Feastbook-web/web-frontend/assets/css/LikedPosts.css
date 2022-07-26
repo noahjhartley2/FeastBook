@@ -1,0 +1,12 @@
+.titleCell {
+    /* border: 2px solid green; */
+    color: white;
+    font-size: xx-large;
+}
+
+.backToProfileCell {
+    /* border: 2px solid green; */
+    cursor: pointer;
+    color: white;
+    font-size: xx-large;
+}

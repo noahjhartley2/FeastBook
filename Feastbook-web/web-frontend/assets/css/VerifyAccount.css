@@ -1,0 +1,15 @@
+.verifyContainer {
+    font-family: MontserratSB;
+    margin-top: 10%;
+    font-size: xx-large;
+    color: white;
+}
+
+.verifyRow1 {
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.verifyRow2 {
+    justify-content: center;
+}
