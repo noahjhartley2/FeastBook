@@ -1,0 +1,27 @@
+{
+  "files": {
+    "app.js": "/static/js/app.0e3f789d.chunk.js",
+    "app.js.map": "/static/js/app.0e3f789d.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.67e5f3f8.chunk.js": "/static/js/2.67e5f3f8.chunk.js",
+    "static/js/2.67e5f3f8.chunk.js.map": "/static/js/2.67e5f3f8.chunk.js.map",
+    "fonts/Montserrat-Regular.ttf": "/./fonts/Montserrat-Regular.ttf",
+    "fonts/Montserrat-SemiBold.ttf": "/./fonts/Montserrat-SemiBold.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.67e5f3f8.chunk.js.LICENSE.txt": "/static/js/2.67e5f3f8.chunk.js.LICENSE.txt",
+    "static/media/addPost.png": "/static/media/addPost.da09f89b.png",
+    "static/media/checkmark.png": "/static/media/checkmark.4f0b1e1e.png",
+    "static/media/feastbook.png": "/static/media/feastbook.d7ba0aae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.67e5f3f8.chunk.js",
+    "static/js/app.0e3f789d.chunk.js"
+  ]
+}
